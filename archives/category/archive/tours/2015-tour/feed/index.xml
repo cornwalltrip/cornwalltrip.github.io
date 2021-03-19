@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2015 Tour &#8211; Cornwall Trip</title>
+	<atom:link href="http://cornwalltrip.github.io/archives/category/archive/tours/2015-tour/feed" rel="self" type="application/rss+xml" />
+	<link>http://cornwalltrip.github.io/</link>
+	<description>Annual golfing pilgrimage</description>
+	<lastBuildDate>Sat, 22 Aug 2015 08:03:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>2015 Champion</title>
+		<link>http://cornwalltrip.github.io/archives/14</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 22 Aug 2015 08:03:55 +0000</pubDate>
+				<category><![CDATA[2015 Tour]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.cornwalltrip.uk/?p=14</guid>
+
+					<description><![CDATA[Our new Champion! Our Championship this year was once again held at Lanhydrock, and was won by Rob Austen with 35 points. Full details of the day and the rest of the tour will be published shortly.]]></description>
+										<content:encoded><![CDATA[<p><strong>Our new Champion!</strong></p>
+<p>Our Championship this year was once again held at Lanhydrock, and was won by Rob Austen with 35 points. Full details of the day and the rest of the tour will be published shortly.<a href="http://192.168.1.150/wp-content/uploads/2015/08/IMG_0040.jpg"><img loading="lazy" class="alignright size-full wp-image-4" src="http://192.168.1.150/wp-content/uploads/2015/08/IMG_0040.jpg" alt="IMG_0040" width="104" height="300" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
