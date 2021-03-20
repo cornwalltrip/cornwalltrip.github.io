@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Cornwall Trip	</title>
-	<atom:link href="http://cornwalltrip.github.io/comments/feed" rel="self" type="application/rss+xml" />
-	<link>http://cornwalltrip.github.io/</link>
+	<atom:link href="https://cornwalltrip.github.io/comments/feed" rel="self" type="application/rss+xml" />
+	<link>https://cornwalltrip.github.io/</link>
 	<description>Annual golfing pilgrimage</description>
 	<lastBuildDate>Wed, 22 Mar 2017 14:35:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Handicaps by Paul Needle		</title>
-		<link>http://cornwalltrip.github.io/archives/684#comment-2</link>
+		<link>https://cornwalltrip.github.io/archives/684#comment-2</link>
 
 		<dc:creator><![CDATA[Paul Needle]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2017 14:35:25 +0000</pubDate>

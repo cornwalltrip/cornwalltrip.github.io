@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Away Days &#8211; Archive &#8211; Cornwall Trip</title>
-	<atom:link href="http://cornwalltrip.github.io/archives/category/archive/away-days-archive/feed" rel="self" type="application/rss+xml" />
-	<link>http://cornwalltrip.github.io/</link>
+	<atom:link href="https://cornwalltrip.github.io/archives/category/archive/away-days-archive/feed" rel="self" type="application/rss+xml" />
+	<link>https://cornwalltrip.github.io/</link>
 	<description>Annual golfing pilgrimage</description>
 	<lastBuildDate>Sat, 13 Mar 2021 07:45:22 +0000</lastBuildDate>
 	<language>en-US</language>

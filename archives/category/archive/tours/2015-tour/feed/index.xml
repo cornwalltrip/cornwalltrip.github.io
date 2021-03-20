@@ -9,8 +9,8 @@
 
 <channel>
 	<title>2015 Tour &#8211; Cornwall Trip</title>
-	<atom:link href="http://cornwalltrip.github.io/archives/category/archive/tours/2015-tour/feed" rel="self" type="application/rss+xml" />
-	<link>http://cornwalltrip.github.io/</link>
+	<atom:link href="https://cornwalltrip.github.io/archives/category/archive/tours/2015-tour/feed" rel="self" type="application/rss+xml" />
+	<link>https://cornwalltrip.github.io/</link>
 	<description>Annual golfing pilgrimage</description>
 	<lastBuildDate>Sat, 22 Aug 2015 08:03:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
 		<title>2015 Champion</title>
-		<link>http://cornwalltrip.github.io/archives/14</link>
+		<link>https://cornwalltrip.github.io/archives/14</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 22 Aug 2015 08:03:55 +0000</pubDate>
