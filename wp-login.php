@@ -8,7 +8,7 @@
 			/* <![CDATA[ */
 			var rcewpp = {
 				"ajax_url":"http://cornwalltrip.github.io/wp-admin/admin-ajax.php",
-				"nonce": "19a2bb092e",
+				"nonce": "79b605c3ab",
 				"home_url": "http://cornwalltrip.github.io"
 			};
 			/* ]]\> */
